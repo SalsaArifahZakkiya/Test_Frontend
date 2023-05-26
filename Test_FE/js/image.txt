@@ -1,0 +1,16 @@
+
+    const image = document.getElementById('image');
+    const cropper = new Cropper(image, {
+        aspecRatio: 0,
+        viewMode: 0,
+    });
+
+    document.getElementById('cropImmageBtn').addEventListener('click', 
+    function(){
+        var croppedImage = cropper.getCroppedCanvas().toDataURL("image/png");
+        
+        sessionStorage.setItem('cropImmageBtn',croppedImage);
+        window.location.href = 'hasil.html';
+    });
+    
+
