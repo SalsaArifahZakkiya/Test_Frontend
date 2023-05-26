@@ -24,7 +24,7 @@ berikut adalah lampiran hasil dari 5 soal logika
 # Ambil dari kamera :
 ![Screen Shot 2023-05-26 at 22 06 33](https://github.com/SalsaArifahZakkiya/Test_Frontend/assets/101571356/24a56ac0-a23b-4f13-9566-12febdfb3e8e)
 
-#ambil dari gallery :
+# ambil dari gallery :
 ![Screen Shot 2023-05-26 at 22 05 59](https://github.com/SalsaArifahZakkiya/Test_Frontend/assets/101571356/b67f45d5-7f6a-4660-aa75-ddf9ac99b9b3)
 
 # hasil:
