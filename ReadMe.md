@@ -2,6 +2,7 @@
 ## Task_Frontened
 Pada Tahap Departement Tes, salah satu topik pekerjaannya adalah tes Frontend, untuk bahasa yang saya gunakan adalah HTML, CSS, javascript dan bootstrap. yang saya akan jelaskan di sini, yaitu
 
+- Nama : Salsa Arifah Zakkiya / arifah.zakkiya.salsa@gmail.com
 -	Cara menjalankan apps / website
 -	Screenshot hasil
 
