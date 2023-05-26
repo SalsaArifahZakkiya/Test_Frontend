@@ -16,20 +16,22 @@ Disini saya tidak menggunakan apps/website dikarenakan saya hanya menggunakan te
 ## screenshoot hasil 
 berikut adalah lampiran hasil dari 5 soal logika
 # profile: 
-![Screen Shot 2023-05-26 at 22 03 58](https://github.com/SalsaArifahZakkiya/Test_Logika/assets/101571356/385dc95c-9fad-448a-ae5e-9b0bc16c6def)
+![Screen Shot 2023-05-26 at 22 03 58](https://github.com/SalsaArifahZakkiya/Test_Frontend/assets/101571356/e2b9f52b-8506-42e9-886b-a50b120925e4)
+
 # ganti foto:
-![Screen Shot 2023-05-26 at 22 04 28](https://github.com/SalsaArifahZakkiya/Test_Logika/assets/101571356/4c6648e7-1ddd-400e-a1e5-72c312865625)
+![Screen Shot 2023-05-26 at 22 04 28](https://github.com/SalsaArifahZakkiya/Test_Frontend/assets/101571356/75867754-7829-4720-a57e-9a4161d8239b)
 
 # Ambil dari kamera :
-![Screen Shot 2023-05-26 at 22 06 33](https://github.com/SalsaArifahZakkiya/Test_Logika/assets/101571356/5d3f2a7a-2eec-4db5-8e2f-26154bd25216)
+![Screen Shot 2023-05-26 at 22 06 33](https://github.com/SalsaArifahZakkiya/Test_Frontend/assets/101571356/24a56ac0-a23b-4f13-9566-12febdfb3e8e)
 
 #ambil dari gallery :
-![Screen Shot 2023-05-26 at 22 11 14](https://github.com/SalsaArifahZakkiya/Test_Logika/assets/101571356/6b26d2dc-7800-4d72-8fc1-1bebf105b12c)
+![Screen Shot 2023-05-26 at 22 05 59](https://github.com/SalsaArifahZakkiya/Test_Frontend/assets/101571356/b67f45d5-7f6a-4660-aa75-ddf9ac99b9b3)
 
 # hasil:
-![Screen Shot 2023-05-26 at 22 10 26](https://github.com/SalsaArifahZakkiya/Test_Logika/assets/101571356/843b9aa3-ecc3-47ab-bf54-bfe77c968a28)
+![Screen Shot 2023-05-26 at 22 06 11](https://github.com/SalsaArifahZakkiya/Test_Frontend/assets/101571356/ad4a051e-84b9-458e-8163-0156af98ad0c)
 
 # output 
-![Screen Shot 2023-05-26 at 22 06 16](https://github.com/SalsaArifahZakkiya/Test_Logika/assets/101571356/eb4b2792-30c9-449c-9ca1-9cd5bc85d42b)
+![Screen Shot 2023-05-26 at 22 06 16](https://github.com/SalsaArifahZakkiya/Test_Frontend/assets/101571356/491d22fc-495c-4a8e-9258-6b13302304df)
+
 
 sekian dari penjelasan tes frontend saya, mohon maaf masih ada kekurangan dalam tes saya :)
